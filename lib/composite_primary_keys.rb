@@ -89,6 +89,7 @@ require 'composite_primary_keys/associations/join_dependency/join_association'
 require 'composite_primary_keys/associations/preloader/association'
 require 'composite_primary_keys/associations/preloader/belongs_to'
 require 'composite_primary_keys/associations/collection_association'
+require 'composite_primary_keys/autosave_association'
 
 require 'composite_primary_keys/attribute_methods/primary_key'
 require 'composite_primary_keys/attribute_methods/read'
